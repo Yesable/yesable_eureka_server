@@ -36,5 +36,5 @@ out/
 ### VS Code ###
 .vscode/
 
-## security
-application.yml
+### Security ###
+/src/main/resources/application.yml
